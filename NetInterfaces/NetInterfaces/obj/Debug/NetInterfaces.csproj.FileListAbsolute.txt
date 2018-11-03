@@ -1,0 +1,7 @@
+C:\NATALLIA\лекции\ООПС#\OOP_1\лекции\Code\NetInterfaces\NetInterfaces\bin\Debug\NetInterfaces.exe.config
+C:\NATALLIA\лекции\ООПС#\OOP_1\лекции\Code\NetInterfaces\NetInterfaces\bin\Debug\NetInterfaces.exe
+C:\NATALLIA\лекции\ООПС#\OOP_1\лекции\Code\NetInterfaces\NetInterfaces\bin\Debug\NetInterfaces.pdb
+C:\NATALLIA\лекции\ООПС#\OOP_1\лекции\Code\NetInterfaces\NetInterfaces\obj\Debug\NetInterfaces.csprojResolveAssemblyReference.cache
+C:\NATALLIA\лекции\ООПС#\OOP_1\лекции\Code\NetInterfaces\NetInterfaces\obj\Debug\NetInterfaces.csproj.CoreCompileInputs.cache
+C:\NATALLIA\лекции\ООПС#\OOP_1\лекции\Code\NetInterfaces\NetInterfaces\obj\Debug\NetInterfaces.exe
+C:\NATALLIA\лекции\ООПС#\OOP_1\лекции\Code\NetInterfaces\NetInterfaces\obj\Debug\NetInterfaces.pdb
